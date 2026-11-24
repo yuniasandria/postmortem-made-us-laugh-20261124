@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3",
+  "phase": "dev",
+  "bundle_sha256": "925691348e76c6de414a03b598d3b46fe0b7779244256daba27a7c51c49ff8fc",
+  "dataset_sha256": null,
+  "harness_version": "harness@1adec795a0c7c05bfdd426f110c32805b159da5b574afd722fbac675f334f0d3 node v26.13.1",
+  "scorer_version": "scorer@c4f67f9fa0e17b443bdf0585713fe4ca8f325db57d1d2a78991b84d6941421fb program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "a8352f34d70dd737e5ec5a0bd23240b5a48da496bfabc3d37ae2988661b26558",
+      "size": 74126
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "56afb26c857a0a0f94cdd1371dd3486817d14ae80b53674d26cd82eaabe6a439",
+      "size": 17346763
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "7f1f49653b79576f27577822e74bda61df0b277391b9cef8fedccf814f5a0bb9",
+      "size": 28178
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "0c134fecb9cccd8ae6f1dda519c8c2fd4b35c4739be560698d0c121f365693a3",
+      "size": 20688
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "9762ffe9d29a1b87a09a737c4668530c3339c18dd4b127c4d79916c2d51f852c",
+      "size": 20688
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "bd4745feaece24ac210be6f5c21b4e432404638d2953287e12645c4ef29755e0",
+      "size": 3082718
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "29a4d2198ea26105059144aa5a9d1931dd72857626c2e195d622e0c4737793cc",
+      "size": 85
+    }
+  ]
+}
